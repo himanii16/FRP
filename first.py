@@ -29,5 +29,5 @@ def img_comparision(path1, path2):
 	print (name)
 
 path1="test_images/srk1.jpg"
-path2="test_images/srklookalike.jpg"
+path2="test_images/duplicatesrk.jpg"
 img_comparision(path1,path2)
